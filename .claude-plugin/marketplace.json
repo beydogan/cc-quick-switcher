@@ -1,0 +1,5 @@
+{
+  "name": "cc-quick-switcher",
+  "owner": { "name": "beydogan" },
+  "plugins": [{ "name": "model-switcher", "source": "./" }]
+}

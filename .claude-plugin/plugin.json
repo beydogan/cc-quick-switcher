@@ -1,0 +1,1 @@
+{ "name": "model-switcher", "version": "0.1.0", "description": "Band of buttons to switch between Opus/Fable at medium/high effort", "author": { "name": "beydogan" }, "types": "./types/index.d.ts" }
